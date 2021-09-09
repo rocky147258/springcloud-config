@@ -1,1 +1,2 @@
-confif-prod.yml
+config:
+  info:"prod version = 1"
