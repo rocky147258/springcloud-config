@@ -1,1 +1,2 @@
-confif-test.yml
+config:
+  info:"test version = 1"
